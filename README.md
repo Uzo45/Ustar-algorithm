@@ -1,5 +1,3 @@
-Making an algorithm with the purpose of finding a path more optimally than the A* algorithm. This algorithm will be called the U* algorithm.
-
-The main strategy for beating the algorithm is to go straight.
-
-This experiment is made using the Unity game engine to visualize it and some code from CodeMonkey (https://www.youtube.com/watch?v=alU04hvz6L4&t=137s&pp=ygURY29kZSBtb25rZXkgYXN0YXI%3D)
+version https://git-lfs.github.com/spec/v1
+oid sha256:97ac21bef8cbb4b8d12d57cb2cccf03f6d37b43e1d1d15d63c1dc07e16351171
+size 396
